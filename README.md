@@ -2,7 +2,7 @@
 A passionate tech enthusiast from India.
 
 - 🔭 Currently working on IoT & AI projects
-- 🌱 Learning VLSI, Digital Communication, and Full Stack Development
+- 🌱 Learning Full Stack Development, Computer Networks
 - ⚡ I love coding!
 - 💬 Ask me about Java, HTML, CSS, JavaScript, C, C++, Python, Verilog
 - 📫 How to reach me anishas1121@gmail.com
