@@ -1,5 +1,12 @@
 ## Hi👋 I'm Anisha!
 A passionate tech enthusiast from India.
+---
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anisha1121&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 - 🔭 Currently working on IoT & AI projects
 - 🌱 Learning Full Stack Development, DSA, Computer Networks
@@ -28,18 +35,16 @@ A passionate tech enthusiast from India.
 ---
 # 👩‍💻 Tech Stack
 
-### Languages & Frameworks:
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat)
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,bootstrap,cpp,cs,css,express,figma,git,html,ai,java,js,kotlin,linux,mongodb,mysql,nextjs,nodejs,opencv,photoshop,php,postman,python,react,redux,tailwind,xd" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=tokyonight)](https://github.com/Anisha1121)
+
 
 ### Databases & APIs:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
@@ -69,18 +74,6 @@ A passionate tech enthusiast from India.
 
 
 📫 Reach me: [Email](mailto:yourmail@gmail.com) | [LinkedIn](https://linkedin.com/in/yourusername)
-
-aise hi
-
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,bootstrap,cpp,cs,css,express,figma,git,html,ai,java,js,kotlin,linux,mongodb,mysql,nextjs,nodejs,opencv,photoshop,php,postman,python,react,redux,tailwind,xd" />
-</p>
-
----
-
-## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=tokyonight)](https://github.com/Anisha1121)
 
 ---
 
