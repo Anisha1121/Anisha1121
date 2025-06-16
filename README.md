@@ -29,10 +29,8 @@
   <a href="https://www.linkedin.com/in/anisha1121/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
+ 
+  <a href="[https://www.instagram.com/](https://www.instagram.com/anisha_dwivedi11/)" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://hashnode.com/@yourhandle" target="_blank">
