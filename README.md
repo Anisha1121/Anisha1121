@@ -64,6 +64,13 @@
 ![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisha1121&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=radical)
 
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha1121&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+
 
 > ✨ Thanks for visiting my profile! Feel free to explore my projects and contributions.
 
