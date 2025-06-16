@@ -30,26 +30,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
  
-  <a href="[https://www.instagram.com/](https://www.instagram.com/anisha_dwivedi11/)" target="_blank">
+  <a href="https://www.instagram.com/anisha_dwivedi11/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://hashnode.com/@yourhandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" alt="Hashnode" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/yourhandle/" target="_blank">
+  
+  <a href="https://leetcode.com/u/anishas1121/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/yourhandle/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
-  </a>
-</p>
+ </p>
 
 
 # 👩‍💻 Tech Stack
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,bootstrap,cpp,cs,css,express,figma,git,html,ai,java,js,kotlin,linux,mongodb,mysql,nextjs,nodejs,opencv,photoshop,php,postman,python,react,redux,tailwind,xd" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bootstrap,cpp,css,express,git,html,ai,java,js,kotlin,linux,mongodb,mysql,nextjs,nodejs,opencv,photoshop,php,postman,python,react,redux,tailwind" />
 </p>
 
 
@@ -73,7 +68,7 @@
 > ✨ Thanks for visiting my profile! Feel free to explore my projects and contributions.
 
 
-📫 Reach me: [Email](mailto:yourmail@gmail.com) | [LinkedIn](https://linkedin.com/in/yourusername)
+📫 Reach me: [Email](mailto:anishas1121@gmail.com) | [LinkedIn](https://linkedin.com/in/anishadwivedi1121)
 
 
 <!--
