@@ -66,7 +66,7 @@
 
 <h3 align="center">🔥 GitHub Contribution Streak</h3>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha1121&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
