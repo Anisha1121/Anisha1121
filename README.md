@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Anisha!</h1>    
-<h1 align="center">A passionate tech enthusiast from India.</h1> 
+<p align="center">A passionate tech enthusiast from India.</p> 
 
 
 
