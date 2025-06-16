@@ -56,7 +56,7 @@
 
 
 ## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=tokyonight)](https://github.com/Anisha1121)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=dark)](https://github.com/Anisha1121)
 
 
 # 📊 GitHub Stats
@@ -67,7 +67,7 @@
 <h3 align="center">🔥 GitHub Contribution Streak</h3>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha1121&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha1121&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 
