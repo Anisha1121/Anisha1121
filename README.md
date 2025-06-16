@@ -61,7 +61,7 @@
 
 # 📊 GitHub Stats
 
-![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisha1121&show_icons=true&theme=dracula)
+![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisha1121&show_icons=true&theme=dark)
 
 
 <h3 align="center">🔥 GitHub Contribution Streak</h3>
