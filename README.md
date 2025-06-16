@@ -56,9 +56,6 @@ A passionate tech enthusiast from India.
 > ✨ Thanks for visiting my profile! Feel free to explore my projects and contributions.
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
----
 
 📫 Reach me: [Email](mailto:yourmail@gmail.com) | [LinkedIn](https://linkedin.com/in/yourusername)
 
