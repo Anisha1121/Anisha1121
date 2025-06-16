@@ -23,7 +23,7 @@
 - *Learning*: React, IoT
 
 ---
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anisha1121/" target="_blank">
