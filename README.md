@@ -61,8 +61,8 @@
 
 # 📊 GitHub Stats
 
-![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisha1121&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=radical)
+![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisha1121&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=tokyonight)
 
 <h3 align="center">🔥 GitHub Contribution Streak</h3>
 
