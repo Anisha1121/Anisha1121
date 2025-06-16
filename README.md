@@ -15,6 +15,17 @@ A passionate tech enthusiast from India.
 - *Learning*: React, IoT
 
 ---
+## 🌐 Connect with me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/anisha1121" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://hashnode.com" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://dev.to" target="_blank"><img alt="DEV.to" src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
 # 👩‍💻 Tech Stack
 
 ### Languages & Frameworks:
@@ -58,6 +69,20 @@ A passionate tech enthusiast from India.
 
 
 📫 Reach me: [Email](mailto:yourmail@gmail.com) | [LinkedIn](https://linkedin.com/in/yourusername)
+
+aise hi
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,bootstrap,cpp,cs,css,express,figma,git,html,ai,java,js,kotlin,linux,mongodb,mysql,nextjs,nodejs,opencv,photoshop,php,postman,python,react,redux,tailwind,xd" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha1121&layout=compact&theme=tokyonight)](https://github.com/Anisha1121)
+
+---
 
 <!--
 **Anisha1121/Anisha1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
